@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The webpage has been deployed and can be accessed [here](https://brian-lascuna.github.io/week1-challenge/).
+The webpage has been deployed and can be accessed [here](https://brian-lascuna.github.io/horiseon-code-refactor/).
 
 The webpage is fully functional and the clickable links within the header still point to their respective section. You can view the HTML via the Chrome Dev Tools which can be accessed by right-clicking the webpage in Google Chrome and clicking "Inspect". For legacy code changes, you can view a record of all changes made through the commits in the repository.
 
